@@ -1,4 +1,4 @@
-package de.coolepizza.system.file;
+package de.vinz.utils.file;
 
 import org.bukkit.configuration.InvalidConfigurationException;
 import org.bukkit.configuration.file.FileConfiguration;
